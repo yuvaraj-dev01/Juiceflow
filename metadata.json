@@ -1,0 +1,8 @@
+{
+  "name": "JuiceFlow",
+  "description": "Build a professional website for your juice shop with integrated online ordering and seasonal menu displays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
